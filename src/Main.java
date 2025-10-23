@@ -1,3 +1,4 @@
+// Phai kiem tra lai va  xem lai toan bo
 import java.awt.Dimension;
 import java.awt.Graphics;
 
